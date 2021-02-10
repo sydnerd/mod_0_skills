@@ -1,0 +1,13 @@
+Class: Teacher
+
+Attributes:
+name ("String")
+yearsTeaching(integer)
+studentsInClass (array)
+teachScience (boolean)
+
+Methods:
+changeName (changes the name attribute)
+newYear (modifies the yearsTeaching to a new integer)
+newStudent (adds to the studentsInClass array)
+switchSubject (changes teachScience boolean)
