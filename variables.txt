@@ -1,0 +1,15 @@
+var famousPerson = "Tom Brady"
+var isActive = true
+
+famousPerson = "Harry Potter"
+
+var num3 = 3
+var num9 = 9
+
+var sum = (num3 + num9)
+
+var animals = ["dog","cat","elephant"]
+
+animals.shift()
+
+console.log(famousPerson.length)
