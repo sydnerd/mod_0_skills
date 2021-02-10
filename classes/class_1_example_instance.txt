@@ -1,0 +1,12 @@
+Instance: Mr. Brown
+Attributes:
+name = "Jon"
+yearsTeaching = 4
+studentsInClass = ["Mary","Danny","Becca"]
+teachScience = true
+
+Methods:
+changeName: name = "Jonny"
+newYear: yearsTeaching = 5
+newStudent: studentsInClass = ["Mary","Danny","Becca","Scott"]
+switchSubject: teachScience = false
