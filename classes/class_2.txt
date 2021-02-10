@@ -1,0 +1,13 @@
+Class: Student
+
+Attributes:
+name ("string")
+gradeLevel (integer)
+classmates (array)
+honorsStudent (boolean)
+
+Methods:
+changeName (updates the name string)
+newGradeLevel (modifies the gradeLevel integer)
+addClassmate (adds to the classmates array)
+failTest (changes the honors student boolean to false)
