@@ -1,0 +1,13 @@
+Instance: Sydney
+
+Attributes:
+name = "Sydney"
+gradeLevel = 9
+classmates = ["Hannah","Samantha","Scott"]
+honorsStudent = true
+
+Methods:
+changeName: name = "Syd"
+newGradeLevel: gradeLevel = 10
+addClassmate: classmates = ["Hannah","Samantha","Scott"]
+failTest: honorsStudent = false
