@@ -9,5 +9,5 @@ honorsStudent = true
 Methods:
 changeName: name = "Syd"
 newGradeLevel: gradeLevel = 10
-addClassmate: classmates = ["Hannah","Samantha","Scott"]
+addClassmate: classmates = ["Hannah","Samantha","Scott","Martha"]
 failTest: honorsStudent = false
